@@ -5,7 +5,7 @@
 <head>
 <style>
 body {
-  background-color:#F9FAE3;
+  background-color:#E7FBFB;
   width:70%;
   font-family: tahoma;
   padding-right:20px; padding-bottom:5px;
@@ -14,7 +14,8 @@ body {
 h1 {
   text-align: center;
   font-weight: bold;
-  font-size: 2em;
+  font-size:4em;
+  color:#010B5B;
 }
 
 img {
